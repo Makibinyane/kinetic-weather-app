@@ -1,7 +1,5 @@
 package com.example.global_kinetic_weather_app.model
 
-import com.google.gson.annotations.Expose
-
 import com.google.gson.annotations.SerializedName
 
 data class WeatherResponse(@SerializedName("coord") val coord: Coord,

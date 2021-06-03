@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="global_margin_large">20dp</dimen>
+    <dimen name="font_size_middle">20sp</dimen>
+    <dimen name="global_margin_medium">10dp</dimen>
+    <dimen name="global_margin_small">8dp</dimen>
+    <dimen name="current_temp_font_size">60sp</dimen>
+    <dimen name="current_temp_layout_height">200dp</dimen>
+    <dimen name="progress_bar_margin">150dp</dimen>
+</resources>

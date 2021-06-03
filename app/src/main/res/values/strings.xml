@@ -1,3 +1,11 @@
 <resources>
-    <string name="app_name">global-kinetic-weather-app</string>
+    <string name="app_name">Kinetic Weather Report</string>
+    <string name="button_text">Refresh</string>
+    <string name="weather_desc">Weather description: %1$s</string>
+    <string name="wind_speed">Wind speed: %1$s km/h</string>
+    <string name="humidity">Humidity: %1$s</string>
+    <string name="town">Town: %1$s</string>
+    <string name="country">Country: %1$s</string>
+    <string name="pressure">Pressure: %1$s</string>
+
 </resources>
